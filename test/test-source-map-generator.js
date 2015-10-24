@@ -707,7 +707,7 @@
       });
       expectedMap.addMapping({
         generated: { line: 2, column: 4 },
-        original: { line: 1, column: 0 },
+        original: { line: 1, column: 4 },
         source: 'original-source'
       });
 
